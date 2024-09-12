@@ -73,7 +73,7 @@ Language.build_library(
         'vendor/tree-sitter-kotlin',
         'vendor/tree-sitter-lua',
         'vendor/tree-sitter-make',
-        'vendor/tree-sitter-markdown',
+        'vendor/tree-sitter-markdown/tree-sitter-markdown',
         'vendor/tree-sitter-objc',
         'vendor/tree-sitter-ocaml/ocaml',
         'vendor/tree-sitter-perl',
